@@ -1,0 +1,3 @@
+pyfliget
+pycurl
+colorama
