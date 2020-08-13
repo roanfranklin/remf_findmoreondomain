@@ -1,3 +1,2 @@
 pyfliget
-pycurl
 colorama
